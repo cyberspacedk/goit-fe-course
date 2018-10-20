@@ -1,2 +1,2 @@
 # goit-fe-course
-Repo for goit hw
+Repo for goit home work

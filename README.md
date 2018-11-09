@@ -21,7 +21,7 @@ ________________________________
 
 &bull; [module-9](https://cyberspacedk.github.io/goit-fe-course/module-9/)
 
-&bull; [module-1](https://cyberspacedk.github.io/goit-fe-course/module-10/)
+&bull; [module-10](https://cyberspacedk.github.io/goit-fe-course/module-10/)
 
-&bull; [module-1](https://cyberspacedk.github.io/goit-fe-course/module-11/)
+&bull; [module-11](https://cyberspacedk.github.io/goit-fe-course/module-11/)
 _______________________________________________________________________________

@@ -3,7 +3,7 @@ _______________________________
 Repository for done home work
 ________________________________
 
-&bull; module-1  -->   https://cyberspacedk.github.io/goit-fe-course/module-1/
+&bull; [module-1] (https://cyberspacedk.github.io/goit-fe-course/module-1/)
 
 &bull; module-2  -->   https://cyberspacedk.github.io/goit-fe-course/module-2/
 

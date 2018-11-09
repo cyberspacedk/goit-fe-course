@@ -1,4 +1,5 @@
 # goit-fe-course
+_______________________________
 Repository for done home work
 ________________________________
 
@@ -23,3 +24,4 @@ ________________________________
 &bull; module-10  -->  https://cyberspacedk.github.io/goit-fe-course/module-10/
 
 &bull; module-11  -->  https://cyberspacedk.github.io/goit-fe-course/module-11/
+_______________________________________________________________________________
